@@ -1,4 +1,4 @@
-#ALY6020 Final Group Project
+#Final Project
 #Bank Marketing Dataset
 install.packages("e1071")
 
